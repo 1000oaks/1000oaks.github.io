@@ -14,7 +14,8 @@ layout: home
 ## Learning
 
 Architecture & System Design
-{: .label .label-purple } life
+{: .label .label-purple } 
+life
 
 1. [NEMU PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/)
 
@@ -25,14 +26,16 @@ Architecture & System Design
 1. [Track 2](https://scpointer.github.io/rcore2oscomp/)
 
 Database Management
-{: .label .label-purple } crucial technique
+{: .label .label-purple } 
+crucial technique
 
 1. [MySQL](https://dev.mysql.com/doc/refman/8.0/en/functions.html)
 
 1. [MongoDB](https://www.mongodb.com/docs/manual/)
 
 Artificial Intelligence & Machine Learning
-{: .label .label-purple } in the meanwhile
+{: .label .label-purple } 
+in the meanwhile
 
 1. [Datawhale](https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc)
 
