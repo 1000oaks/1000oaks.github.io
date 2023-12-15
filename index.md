@@ -13,7 +13,7 @@ layout: home
 
 ## Learning
 
-Architecture & System Design{: .label .label-purple } Basis
+Architecture & System Design {: .label .label-purple }
 
 1. [NEMU PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/)
 
@@ -23,13 +23,13 @@ Architecture & System Design{: .label .label-purple } Basis
 
 1. [Track 2](https://scpointer.github.io/rcore2oscomp/)
 
-Database Management{: .label .label-purple } 
+Database Management {: .label .label-purple } 
 
 1. [MySQL](https://dev.mysql.com/doc/refman/8.0/en/functions.html)
 
 1. [MongoDB](https://www.mongodb.com/docs/manual/)
 
-Artificial Intelligence & Machine Learning{: .label .label-purple } 
+Artificial Intelligence & Machine Learning {: .label .label-purple } 
 
 1. [Datawhale](https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc)
 
@@ -39,7 +39,7 @@ Artificial Intelligence & Machine Learning{: .label .label-purple }
 
 3. [Practical Deep Learning](https://course.fast.ai/)
 
-Algorithms{: .label .label-blue }
+Algorithms {: .label .label-blue }
 
 1. [OI Wiki](https://oi-wiki.org/)
 
@@ -47,7 +47,7 @@ Algorithms{: .label .label-blue }
 
 1. [labuladong-zgnb](https://labuladong.github.io/zgnb/)
 
-Low Level & Hack{: .label .label-green }
+Low Level & Hack {: .label .label-green }
 
 1. [CTF Wiki](https://ctf-wiki.org/)
 
@@ -61,7 +61,7 @@ Low Level & Hack{: .label .label-green }
 
 1. [Principles of Performance](https://llllllllll.github.io/principles-of-performance/index.html)
 
-Programming Languages{: .label .label-green }
+Programming Languages {: .label .label-green }
 
 1. [Java](https://dev.java/learn/getting-started/)
 
@@ -73,7 +73,7 @@ Programming Languages{: .label .label-green }
 
 ## Thinking
 
-CCF Deadlines{: .label .label-red }
+CCF Deadlines {: .label .label-red }
 
 1. [CCFDDL](https://ccfddl.github.io/)
 
@@ -97,7 +97,7 @@ CCF Deadlines{: .label .label-red }
 
 ## Further
 
-Advanced Topics{: .label .label-blue }
+Advanced Topics {: .label .label-blue }
 
 1. [eBPF](https://ebpf.io/what-is-ebpf/)
 
@@ -107,7 +107,7 @@ Advanced Topics{: .label .label-blue }
 
 2. [RESTful API](https://restfulapi.net/)
 
-If time permits...{: .label .label-yellow }
+If time permits... {: .label .label-yellow }
 
 1. [Wolfram Alpha](https://www.wolframalpha.com/)
 
