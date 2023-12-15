@@ -14,6 +14,7 @@ layout: home
 > Architecture & System Design 
 
 [NEMU PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/){: .btn .btn-blue }
+[YSYX](https://ysyx.oscc.cc/){: .btn .btn-blue }
 [rCore v3](https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html){: .btn .btn-green }
 [ArceOS](https://rcore-os.cn/arceos-tutorial-book/){: .btn .btn-green }
 [Track 2](https://scpointer.github.io/rcore2oscomp/){: .btn .btn-purple }
