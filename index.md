@@ -62,7 +62,7 @@ layout: home
 {: .highlight }
 > CCF Deadlines 
 
-[CCFDDL](https://ccfddl.github.io/)
+[CCFDDL](https://ccfddl.github.io/){: .btn .btn-blue }
 
 ## Catalogue
 
@@ -71,42 +71,42 @@ layout: home
 
 ## Course
 
-[6.5840 Distributed Systems](https://pdos.csail.mit.edu/6.824/)
+1. [6.5840 Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 
-[CS61B Data Structures](https://fa23.datastructur.es/)
+1. [CS61B Data Structures](https://fa23.datastructur.es/)
 
-[CS186 Introduction to Database Systems](https://cs186berkeley.net/)
+1. [CS186 Introduction to Database Systems](https://cs186berkeley.net/)
 
-[CS294 Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-sp22/)
+1. [CS294 Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-sp22/)
 
-[CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)
+1. [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)
 
 ## Further
 
 {: .highlight }
 > Advanced Topics 
 
-[eBPF](https://ebpf.io/what-is-ebpf/)
+[eBPF](https://ebpf.io/what-is-ebpf/){: .btn .btn-blue }
 
-[TLA+](https://lamport.azurewebsites.net/tla/learning.html)
+[TLA+](https://lamport.azurewebsites.net/tla/learning.html){: .btn .btn-green }
 
-[Learn TLA+](https://learntla.com/)
+[Learn TLA+](https://learntla.com/){: .btn .btn-green }
 
-[RESTful API](https://restfulapi.net/)
+[RESTful API](https://restfulapi.net/){: .btn .btn-blue }
 
 {: .note }
 > If time permits... 
 
-[Wolfram Alpha](https://www.wolframalpha.com/)
+[Wolfram Alpha](https://www.wolframalpha.com/){: .btn .btn-blue }
 
-[MDN Web Docs](https://developer.mozilla.org/en-US/)
+[MDN Web Docs](https://developer.mozilla.org/en-US/){: .btn .btn-green }
 
-[Cloudflare Workers](https://developers.cloudflare.com/workers/)
+[Cloudflare Workers](https://developers.cloudflare.com/workers/){: .btn .btn-purple }
 
-[Cloudflare WARP](https://developers.cloudflare.com/warp-client/warp-modes/)
+[Cloudflare WARP](https://developers.cloudflare.com/warp-client/{: .btn .btn-purple }warp-modes/)
 
-[Postman Docs](https://learning.postman.com/docs/getting-started/overview/)
+[Postman Docs](https://learning.postman.com/docs/getting-started/overview/){: .btn .btn-blue }
 
-[WebAssembly](https://webassembly.org/)
+[WebAssembly](https://webassembly.org/){: .btn .btn-blue }
 
-[Chrome Enterprise policy list](https://chromeenterprise.google/policies/)
+[Chrome Enterprise policy list](https://chromeenterprise.google/policies/){: .btn .btn-green }
