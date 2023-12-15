@@ -11,6 +11,7 @@ layout: home
 {: .warning }
 > Architecture & System Design 
 
+[Tinylab-C](https://tinylab-1.gitbook.io/cbook/){: .btn .btn-purple }
 [Linux-C](http://akaedu.github.io/book/){: .btn .btn-purple }
 [NEMU PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/){: .btn .btn-blue }
 [YSYX](https://ysyx.oscc.cc/){: .btn .btn-blue }
@@ -32,6 +33,8 @@ layout: home
 [Practical Deep Learning](https://course.fast.ai/){: .btn .btn-blue }
 [Dive into Deep Learning](https://d2l.ai/index.html){: .btn .btn-purple }
 [Dive into Deep Learning Course](https://c.d2l.ai/zh-v2/){: .btn .btn-purple }
+[AIBook1](https://aibook1.readthedocs.io/zh_CN/latest/){: .btn .btn-green }
+[MLHowTo](https://mlhowto.readthedocs.io/en/latest/#){: .btn .btn-blue }
 
 {: .warning }
 > Algorithms 
@@ -39,22 +42,25 @@ layout: home
 [OI Wiki](https://oi-wiki.org/){: .btn .btn-blue }
 [labuladong-algo](https://labuladong.github.io/algo/){: .btn .btn-green }
 [labuladong-zgnb](https://labuladong.github.io/zgnb/){: .btn .btn-green }
+[Data Structure & Algorithm](https://doocs.github.io/data-structure-and-algorithm/#/){: .btn .btn-purple }
 
 {: .important }
 > Low Level & Hack 
 
 [CTF Wiki](https://ctf-wiki.org/){: .btn .btn-blue }
-[CTF 101](https://ctf101.org/){: .btn .btn-green }
-[CTF Book](https://ctfbook.ph0en1x.com/){: .btn .btn-purple }
+[CTF 101](https://ctf101.org/){: .btn .btn-blue }
+[CTF Book](https://ctfbook.ph0en1x.com/){: .btn .btn-blue }
+[CTF All in One](https://firmianay.gitbook.io/ctf-all-in-one/){: .btn .btn-blue }
 [binhack](https://binhack.readthedocs.io/zh/latest/){: .btn .btn-green }
-[Reverse Engineering](https://0xinfection.github.io/reversing/){: .btn .btn-blue }
-[low level](https://low-level.readthedocs.io/en/latest/){: .btn .btn-purple }
-[Low Level Programming](https://cch123.gitbooks.io/duplicate/content/){: .btn .btn-blue }
+[Reverse Engineering](https://0xinfection.github.io/reversing/){: .btn .btn-purple }
+[low level](https://low-level.readthedocs.io/en/latest/){: .btn .btn-blue }
+[Low Level Programming](https://cch123.gitbooks.io/duplicate/content/){: .btn .btn-green }
 [Principles of Performance](https://llllllllll.github.io/principles-of-performance/index.html){: .btn .btn-purple }
 
 {: .important }
 > Programming Languages 
 
+[C++](https://changkun.de/modern-cpp/){: .btn .btn-purple }
 [Java](https://dev.java/learn/getting-started/){: .btn .btn-blue }
 [Golang](https://go.dev/doc/){: .btn .btn-green }
 [Rust](https://doc.rust-lang.org/book/){: .btn .btn-purple }
@@ -76,6 +82,8 @@ layout: home
 
 1. [6.5840 Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 
+1. [6.S983 (formerly 6.888)](http://csg.csail.mit.edu/6.S983/)
+
 1. [CS61B Data Structures](https://fa23.datastructur.es/)
 
 1. [CS186 Introduction to Database Systems](https://cs186berkeley.net/)
@@ -84,19 +92,42 @@ layout: home
 
 1. [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)
 
+1. [Foundations of Computer Science](https://eecs376.github.io/notes/)
+
+## Notes
+
+{: .new }
+> Collections
+
+[MRCODE Architect](https://zq99299.github.io/note-architect/){: .btn .btn-blue }
+[MRCODE DS+Algo](https://zq99299.github.io/dsalg-tutorial/){: .btn .btn-blue }
+[MRCODE Book](https://zq99299.github.io/note-book/){: .btn .btn-blue }
+[Inteview(huihut)](https://interview.huihut.com/#/){: .btn .btn-green }
+[Inteview(wzcu)](http://interview.wzcu.com/){: .btn .btn-green }
+[Interview Guide](https://interviewguide.cn/){: .btn .btn-green }
+[Hit Alibaba](https://hit-alibaba.github.io/interview/){: .btn .btn-purple }
+[CS Wiki](https://www.cswiki.top/){: .btn .btn-blue }
+[CS Notes](https://csnotes.woshinlper.com/){: .btn .btn-blue }
+[CSDIY](https://csdiy.wiki/){: .btn .btn-blue }
+[Stibel](https://stibel.icu/){: .btn .btn-green }
+[Pdai](https://www.pdai.tech/){: .btn .btn-green }
+[Xiaolin](https://xiaolincoding.com/){: .btn .btn-green }
+[Kenve](https://kenve.github.io/){: .btn .btn-green }
+[Innohub](https://books.innohub.top/){: .btn .btn-purple }
+
 ## Further
 
 {: .highlight }
 > Advanced Topics 
 
-[100 GDB Tips](https://wizardforcel.gitbooks.io/100-gdb-tips/content/){: .btn .btn-purple }
 [CodeToolChains](https://codetoolchains.readthedocs.io/en/latest/index.html){: .btn .btn-blue }
 [Using CLI](https://selfhostedserver.com/usingcli-book){: .btn .btn-green }
 [Makefile](https://seisman.github.io/how-to-write-makefile/){: .btn .btn-green }
+[100 GDB Tips](https://wizardforcel.gitbooks.io/100-gdb-tips/content/){: .btn .btn-purple }
 [eBPF](https://ebpf.io/what-is-ebpf/){: .btn .btn-blue }
 [TLA+](https://lamport.azurewebsites.net/tla/learning.html){: .btn .btn-green }
 [Learn TLA+](https://learntla.com/){: .btn .btn-green }
-[RESTful API](https://restfulapi.net/){: .btn .btn-blue }
+[RESTful API](https://restfulapi.net/){: .btn .btn-purple }
 
 {: .note }
 > If time permits... 
