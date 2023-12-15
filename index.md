@@ -49,7 +49,7 @@ layout: home
 [CTF 101](https://ctf101.org/){: .btn .btn-green }
 [CTF Book](https://ctfbook.ph0en1x.com/){: .btn .btn-purple }
 [binhack](https://binhack.readthedocs.io/zh/latest/){: .btn .btn-green }
-[Reverse Engineering](https://0xinfection.github.io/reversing/)
+[Reverse Engineering](https://0xinfection.github.io/reversing/){: .btn .btn-blue }
 [low level](https://low-level.readthedocs.io/en/latest/){: .btn .btn-purple }
 [Low Level Programming](https://cch123.gitbooks.io/duplicate/content/){: .btn .btn-blue }
 [Principles of Performance](https://llllllllll.github.io/principles-of-performance/index.html){: .btn .btn-purple }
