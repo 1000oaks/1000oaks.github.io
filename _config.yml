@@ -7,16 +7,12 @@ url: https://1000oaks.github.io
 
 callouts:
   warning:
-    title: Warning
     color: red
   note:
-    title: Note
     color: purple
   important:
-    title: Important
     color: blue
   new:
-    title: New
     color: green
   highlight:
     color: yellow
