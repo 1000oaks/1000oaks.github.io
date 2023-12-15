@@ -42,8 +42,8 @@ layout: home
 
 3. [Practical Deep Learning](https://course.fast.ai/)
 
-> [!CAUTION]
-> Algorithms
+Algorithms
+{: .label .label-blue }
 
 1. [OI Wiki](https://oi-wiki.org/)
 
