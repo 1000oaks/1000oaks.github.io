@@ -13,8 +13,8 @@ layout: home
 
 ## Learning
 
-> [!IMPORTANT]
-> Architecture & System Design: life
+Architecture & System Design
+{: .label .label-purple } life
 
 1. [NEMU PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/)
 
@@ -24,15 +24,15 @@ layout: home
 
 1. [Track 2](https://scpointer.github.io/rcore2oscomp/)
 
-> [!IMPORTANT]
-> Database Management: crucial technique
+Database Management
+{: .label .label-purple } crucial technique
 
 1. [MySQL](https://dev.mysql.com/doc/refman/8.0/en/functions.html)
 
 1. [MongoDB](https://www.mongodb.com/docs/manual/)
 
-> [!IMPORTANT]
-> Artificial Intelligence & Machine Learning: in the meanwhile
+Artificial Intelligence & Machine Learning
+{: .label .label-purple } in the meanwhile
 
 1. [Datawhale](https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc)
 
@@ -51,8 +51,8 @@ Algorithms
 
 1. [labuladong-zgnb](https://labuladong.github.io/zgnb/)
 
-> [!NOTE]
-> Low Level & Hack
+Low Level & Hack
+{: .label .label-green }
 
 1. [CTF Wiki](https://ctf-wiki.org/)
 
@@ -66,8 +66,8 @@ Algorithms
 
 1. [Principles of Performance](https://llllllllll.github.io/principles-of-performance/index.html)
 
-> [!WARNING]
-> Programming Languages
+Programming Languages
+{: .label .label-green }
 
 1. [Java](https://dev.java/learn/getting-started/)
 
@@ -79,8 +79,8 @@ Algorithms
 
 ## Thinking
 
-> [!CAUTION]
-> CCF Deadline
+CCF Deadlines
+{: .label .label-red }
 
 1. [CCFDDL](https://ccfddl.github.io/)
 
@@ -104,8 +104,8 @@ Algorithms
 
 ## Further
 
-> [!NOTE]
-> Some advanced topics
+Advanced Topics
+{: .label .label-blue }
 
 1. [eBPF](https://ebpf.io/what-is-ebpf/)
 
@@ -115,8 +115,8 @@ Algorithms
 
 2. [RESTful API](https://restfulapi.net/)
 
-> [!TIP]
-> If time is possible
+If time permits...
+{: .label .label-yellow }
 
 1. [Wolfram Alpha](https://www.wolframalpha.com/)
 
