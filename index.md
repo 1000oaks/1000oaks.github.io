@@ -46,10 +46,12 @@ layout: home
 > Low Level & Hack 
 
 [CTF Wiki](https://ctf-wiki.org/){: .btn .btn-blue }
+[CTF 101](https://ctf101.org/){: .btn .btn-green }
+[CTF Book](https://ctfbook.ph0en1x.com/){: .btn .btn-purple }
 [binhack](https://binhack.readthedocs.io/zh/latest/){: .btn .btn-green }
+[Reverse Engineering](https://0xinfection.github.io/reversing/)
 [low level](https://low-level.readthedocs.io/en/latest/){: .btn .btn-purple }
 [Low Level Programming](https://cch123.gitbooks.io/duplicate/content/){: .btn .btn-blue }
-[CTF 101](https://ctf101.org/){: .btn .btn-green }
 [Principles of Performance](https://llllllllll.github.io/principles-of-performance/index.html){: .btn .btn-purple }
 
 {: .important }
@@ -90,6 +92,7 @@ layout: home
 > Advanced Topics 
 
 [100 GDB Tips](https://wizardforcel.gitbooks.io/100-gdb-tips/content/){: .btn .btn-purple }
+[CodeToolChains]https://codetoolchains.readthedocs.io/en/latest/index.html{: .btn .btn-blue }
 [Using CLI](https://selfhostedserver.com/usingcli-book){: .btn .btn-green }
 [Makefile](https://seisman.github.io/how-to-write-makefile/){: .btn .btn-green }
 [eBPF](https://ebpf.io/what-is-ebpf/){: .btn .btn-blue }
