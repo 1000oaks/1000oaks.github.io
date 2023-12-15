@@ -30,11 +30,12 @@ layout: home
 
 [Datawhale](https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc){: .btn .btn-blue }
 [PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html){: .btn .btn-green }
-[Practical Deep Learning](https://course.fast.ai/){: .btn .btn-blue }
-[Dive into Deep Learning](https://d2l.ai/index.html){: .btn .btn-purple }
-[Dive into Deep Learning Course](https://c.d2l.ai/zh-v2/){: .btn .btn-purple }
+[Practical Deep Learning](https://course.fast.ai/){: .btn .btn-purple }
+[Dive into Deep Learning](https://d2l.ai/index.html){: .btn .btn-blue }
+[Dive into Deep Learning Course](https://c.d2l.ai/zh-v2/){: .btn .btn-blue }
 [AIBook1](https://aibook1.readthedocs.io/zh_CN/latest/){: .btn .btn-green }
-[MLHowTo](https://mlhowto.readthedocs.io/en/latest/#){: .btn .btn-blue }
+[MLHowTo](https://mlhowto.readthedocs.io/en/latest/#){: .btn .btn-purple }
+[MachineLearningGao](https://machinelearninggao.readthedocs.io/zh/stable/){: .btn .btn-blue }
 
 {: .warning }
 > Algorithms 
@@ -113,16 +114,21 @@ layout: home
 [Pdai](https://www.pdai.tech/){: .btn .btn-green }
 [Xiaolin](https://xiaolincoding.com/){: .btn .btn-green }
 [Kenve](https://kenve.github.io/){: .btn .btn-green }
+[FashionChan](https://fasionchan.com/){: .btn .btn-green }
+[Twle](https://www.twle.cn/){: .btn .btn-purple }
 [Innohub](https://books.innohub.top/){: .btn .btn-purple }
+[Uusystem](http://www.uusystem.com/){: .btn .btn-purple }
+[Jason Note](https://jasonblog.github.io/note/index.html){: .btn .btn-blue }
 
 ## Further
 
 {: .highlight }
-> Advanced Topics 
+> Topics 
 
+[LinuxSysAdmin](https://c4pr1c3.github.io/LinuxSysAdmin/){: .btn .btn-purple }
+[Makefile](https://seisman.github.io/how-to-write-makefile/){: .btn .btn-green }
 [CodeToolChains](https://codetoolchains.readthedocs.io/en/latest/index.html){: .btn .btn-blue }
 [Using CLI](https://selfhostedserver.com/usingcli-book){: .btn .btn-green }
-[Makefile](https://seisman.github.io/how-to-write-makefile/){: .btn .btn-green }
 [100 GDB Tips](https://wizardforcel.gitbooks.io/100-gdb-tips/content/){: .btn .btn-purple }
 [eBPF](https://ebpf.io/what-is-ebpf/){: .btn .btn-blue }
 [TLA+](https://lamport.azurewebsites.net/tla/learning.html){: .btn .btn-green }
