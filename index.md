@@ -36,6 +36,9 @@ layout: home
 [AIBook1](https://aibook1.readthedocs.io/zh_CN/latest/){: .btn .btn-green }
 [MLHowTo](https://mlhowto.readthedocs.io/en/latest/#){: .btn .btn-purple }
 [MachineLearningGao](https://machinelearninggao.readthedocs.io/zh/stable/){: .btn .btn-blue }
+[VisionGuide](https://visionguide.readthedocs.io/zh-cn/latest/?badge=latest){: .btn .btn-green }
+[BookData](https://bookdata.readthedocs.io/en/latest/index.html){: .btn .btn-purple }
+[Data Analysis for Data Science](https://m1lab.github.io/Data-Analysis-for-Data-Science/){: .btn .btn-purple }
 
 {: .warning }
 > Algorithms 
@@ -104,7 +107,6 @@ layout: home
 [Advanced Java](https://doocs.github.io/advanced-java/#/){: .btn .btn-purple }
 [MRCODE 1](https://zq99299.github.io/note-book/){: .btn .btn-blue }
 [MRCODE 2](https://www.yuque.com/mrcode.cn){: .btn .btn-blue }
-[MRCODE 3](https://zq99299.github.io/note-architect/){: .btn .btn-blue }
 [Inteview(huihut)](https://interview.huihut.com/#/){: .btn .btn-green }
 [Inteview(wzcu)](http://interview.wzcu.com/){: .btn .btn-green }
 [Interview Guide](https://interviewguide.cn/){: .btn .btn-green }
@@ -122,17 +124,20 @@ layout: home
 [Uusystem](http://www.uusystem.com/){: .btn .btn-purple }
 [Jason Note](https://jasonblog.github.io/note/index.html){: .btn .btn-blue }
 [Bick](http://www.pedestrian.com.cn/index.html){: .btn .btn-blue }
+[wuli.wiki](https://wuli.wiki/book/){: .btn .btn-blue }
 
 ## Further
 
 {: .highlight }
 > Topics 
 
-[LinuxSysAdmin](https://c4pr1c3.github.io/LinuxSysAdmin/){: .btn .btn-purple }
-[Makefile](https://seisman.github.io/how-to-write-makefile/){: .btn .btn-green }
+[Git](https://git-scm.com/book/zh/v2/){: .btn .btn-blue }
+[LinuxSysAdmin](https://c4pr1c3.github.io/LinuxSysAdmin/){: .btn .btn-green }
+[Makefile](https://seisman.github.io/how-to-write-makefile/){: .btn .btn-purple }
 [CodeToolChains](https://codetoolchains.readthedocs.io/en/latest/index.html){: .btn .btn-blue }
 [Using CLI](https://selfhostedserver.com/usingcli-book){: .btn .btn-green }
 [100 GDB Tips](https://wizardforcel.gitbooks.io/100-gdb-tips/content/){: .btn .btn-purple }
+[QEMU](https://www.qemu.org/docs/master/system/index.html){: .btn .btn-blue }
 [eBPF](https://ebpf.io/what-is-ebpf/){: .btn .btn-blue }
 [TLA+](https://lamport.azurewebsites.net/tla/learning.html){: .btn .btn-green }
 [Learn TLA+](https://learntla.com/){: .btn .btn-green }
