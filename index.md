@@ -7,9 +7,9 @@ layout: home
 
 > To myself: for more contents please refer to `au20` private repo.
 
-[au20 private repo](https://github.com/1000oaks/au20/)
+[au20 private repo](https://github.com/1000oaks/au20/){: .btn .btn-blue }
 
-[GitHub Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[GitHub Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){: .btn .btn-green }
 
 ## Learning
 
