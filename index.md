@@ -102,8 +102,9 @@ layout: home
 > Collections
 
 [Advanced Java](https://doocs.github.io/advanced-java/#/){: .btn .btn-purple }
-[MRCODE Architect](https://zq99299.github.io/note-architect/){: .btn .btn-blue }
-[MRCODE Book](https://zq99299.github.io/note-book/){: .btn .btn-blue }
+[MRCODE 1](https://zq99299.github.io/note-book/){: .btn .btn-blue }
+[MRCODE 2](https://www.yuque.com/mrcode.cn){: .btn .btn-blue }
+[MRCODE 3](https://zq99299.github.io/note-architect/){: .btn .btn-blue }
 [Inteview(huihut)](https://interview.huihut.com/#/){: .btn .btn-green }
 [Inteview(wzcu)](http://interview.wzcu.com/){: .btn .btn-green }
 [Interview Guide](https://interviewguide.cn/){: .btn .btn-green }
