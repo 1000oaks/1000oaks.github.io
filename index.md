@@ -41,9 +41,9 @@ layout: home
 > Algorithms 
 
 [OI Wiki](https://oi-wiki.org/){: .btn .btn-blue }
+[MRCODE DS+Algo](https://zq99299.github.io/dsalg-tutorial/){: .btn .btn-blue }
 [labuladong-algo](https://labuladong.github.io/algo/){: .btn .btn-green }
 [labuladong-zgnb](https://labuladong.github.io/zgnb/){: .btn .btn-green }
-[Data Structure & Algorithm](https://doocs.github.io/data-structure-and-algorithm/#/){: .btn .btn-purple }
 
 {: .important }
 > Low Level & Hack 
@@ -63,6 +63,7 @@ layout: home
 
 [C++](https://changkun.de/modern-cpp/){: .btn .btn-purple }
 [Java](https://dev.java/learn/getting-started/){: .btn .btn-blue }
+[JVM](https://doocs.github.io/jvm/){: .btn .btn-blue }
 [Golang](https://go.dev/doc/){: .btn .btn-green }
 [Rust](https://doc.rust-lang.org/book/){: .btn .btn-purple }
 [Python](https://docs.python.org/zh-cn/3/tutorial/index.html){: .btn .btn-blue }
@@ -79,7 +80,7 @@ layout: home
 [Learn Anything](https://learn-anything.xyz/){: .btn .btn-blue }
 [Perplexity](https://www.perplexity.ai/){: .btn .btn-green }
 
-## Course
+## Courses
 
 1. [6.5840 Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 
@@ -100,8 +101,8 @@ layout: home
 {: .new }
 > Collections
 
+[Advanced Java](https://doocs.github.io/advanced-java/#/){: .btn .btn-purple }
 [MRCODE Architect](https://zq99299.github.io/note-architect/){: .btn .btn-blue }
-[MRCODE DS+Algo](https://zq99299.github.io/dsalg-tutorial/){: .btn .btn-blue }
 [MRCODE Book](https://zq99299.github.io/note-book/){: .btn .btn-blue }
 [Inteview(huihut)](https://interview.huihut.com/#/){: .btn .btn-green }
 [Inteview(wzcu)](http://interview.wzcu.com/){: .btn .btn-green }
@@ -119,6 +120,7 @@ layout: home
 [Innohub](https://books.innohub.top/){: .btn .btn-purple }
 [Uusystem](http://www.uusystem.com/){: .btn .btn-purple }
 [Jason Note](https://jasonblog.github.io/note/index.html){: .btn .btn-blue }
+[Bick](http://www.pedestrian.com.cn/index.html){: .btn .btn-blue }
 
 ## Further
 
