@@ -15,7 +15,6 @@ layout: home
 
 Architecture & System Design
 {: .label .label-purple } 
-life
 
 1. [NEMU PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/)
 
@@ -27,7 +26,6 @@ life
 
 Database Management
 {: .label .label-purple } 
-crucial technique
 
 1. [MySQL](https://dev.mysql.com/doc/refman/8.0/en/functions.html)
 
@@ -35,7 +33,6 @@ crucial technique
 
 Artificial Intelligence & Machine Learning
 {: .label .label-purple } 
-in the meanwhile
 
 1. [Datawhale](https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc)
 
