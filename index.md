@@ -13,6 +13,7 @@ layout: home
 {: .warning }
 > Architecture & System Design 
 
+[Linux-C](http://akaedu.github.io/book/){: .btn .btn-purple }
 [NEMU PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/){: .btn .btn-blue }
 [YSYX](https://ysyx.oscc.cc/){: .btn .btn-blue }
 [rCore v3](https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html){: .btn .btn-green }
@@ -30,8 +31,9 @@ layout: home
 
 [Datawhale](https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc){: .btn .btn-blue }
 [PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html){: .btn .btn-green }
-[Dive into Deep Learning](https://d2l.ai/index.html){: .btn .btn-purple }
 [Practical Deep Learning](https://course.fast.ai/){: .btn .btn-blue }
+[Dive into Deep Learning](https://d2l.ai/index.html){: .btn .btn-purple }
+[Dive into Deep Learning Course](https://c.d2l.ai/zh-v2/){: .btn .btn-purple }
 
 {: .warning }
 > Algorithms 
@@ -87,27 +89,21 @@ layout: home
 {: .highlight }
 > Advanced Topics 
 
+[100 GDB Tips](https://wizardforcel.gitbooks.io/100-gdb-tips/content/){: .btn .btn-purple }
+[Using CLI](https://selfhostedserver.com/usingcli-book){: .btn .btn-green }
+[Makefile](https://seisman.github.io/how-to-write-makefile/){: .btn .btn-green }
 [eBPF](https://ebpf.io/what-is-ebpf/){: .btn .btn-blue }
-
 [TLA+](https://lamport.azurewebsites.net/tla/learning.html){: .btn .btn-green }
-
 [Learn TLA+](https://learntla.com/){: .btn .btn-green }
-
 [RESTful API](https://restfulapi.net/){: .btn .btn-blue }
 
 {: .note }
 > If time permits... 
 
 [Wolfram Alpha](https://www.wolframalpha.com/){: .btn .btn-blue }
-
 [MDN Web Docs](https://developer.mozilla.org/en-US/){: .btn .btn-green }
-
 [Cloudflare Workers](https://developers.cloudflare.com/workers/){: .btn .btn-purple }
-
-[Cloudflare WARP](https://developers.cloudflare.com/warp-client/{: .btn .btn-purple }warp-modes/)
-
+[Cloudflare WARP](https://developers.cloudflare.com/warp-client/){: .btn .btn-purple }
 [Postman Docs](https://learning.postman.com/docs/getting-started/overview/){: .btn .btn-blue }
-
 [WebAssembly](https://webassembly.org/){: .btn .btn-blue }
-
 [Chrome Enterprise policy list](https://chromeenterprise.google/policies/){: .btn .btn-green }
