@@ -3,8 +3,6 @@ title: Home
 layout: home
 ---
 
-# Thousand Oaks
-
 [au20 private repo](https://github.com/1000oaks/au20/){: .btn .btn-blue }
 [GitHub Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){: .btn .btn-green }
 
