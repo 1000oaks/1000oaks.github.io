@@ -56,11 +56,12 @@ layout: home
 [CTF 101](https://ctf101.org/){: .btn .btn-blue }
 [CTF Book](https://ctfbook.ph0en1x.com/){: .btn .btn-blue }
 [CTF All in One](https://firmianay.gitbook.io/ctf-all-in-one/){: .btn .btn-blue }
+[CTF2 (d00mfist1)](https://d00mfist1.gitbooks.io/ctf/content/){: .btn .btn-blue }
 [binhack](https://binhack.readthedocs.io/zh/latest/){: .btn .btn-green }
 [Reverse Engineering](https://0xinfection.github.io/reversing/){: .btn .btn-purple }
 [low level](https://low-level.readthedocs.io/en/latest/){: .btn .btn-blue }
 [Low Level Programming](https://cch123.gitbooks.io/duplicate/content/){: .btn .btn-green }
-[Principles of Performance](https://llllllllll.github.io/principles-of-performance/index.html){: .btn .btn-purple }
+[Security Studies](https://es7evam.gitbook.io/security-studies/){: .btn .btn-purple }
 
 {: .important }
 > Programming Languages 
@@ -100,35 +101,26 @@ layout: home
 
 1. [Foundations of Computer Science](https://eecs376.github.io/notes/)
 
-## Notes
+## Specials
+
+{: .new }
+> Basic Knowledge
+[Function Call Principle](https://gitbook.coder.cat/function-call-principle/){: .btn .btn-blue }
+[Programmer Basic (leohxj)](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html){: .btn .btn-green }
+[Principles of Performance](https://llllllllll.github.io/principles-of-performance/index.html){: .btn .btn-purple }
 
 {: .new }
 > Collections
-
 [Advanced Java](https://doocs.github.io/advanced-java/#/){: .btn .btn-purple }
 [MRCODE 1](https://zq99299.github.io/note-book/){: .btn .btn-blue }
 [MRCODE 2](https://www.yuque.com/mrcode.cn){: .btn .btn-blue }
-[Inteview(huihut)](https://interview.huihut.com/#/){: .btn .btn-green }
-[Inteview(wzcu)](http://interview.wzcu.com/){: .btn .btn-green }
+[Inteview (huihut)](https://interview.huihut.com/#/){: .btn .btn-green }
+[Inteview (wzcu)](http://interview.wzcu.com/){: .btn .btn-green }
 [Interview Guide](https://interviewguide.cn/){: .btn .btn-green }
 [Hit Alibaba](https://hit-alibaba.github.io/interview/){: .btn .btn-purple }
 [CS Wiki](https://www.cswiki.top/){: .btn .btn-blue }
 [CS Notes](https://csnotes.woshinlper.com/){: .btn .btn-blue }
 [CSDIY](https://csdiy.wiki/){: .btn .btn-blue }
-[stibel](https://stibel.icu/){: .btn .btn-green }
-[pdai](https://www.pdai.tech/){: .btn .btn-green }
-[xiaolin](https://xiaolincoding.com/){: .btn .btn-green }
-[kenve](https://kenve.github.io/){: .btn .btn-green }
-[FashionChan](https://fasionchan.com/){: .btn .btn-green }
-[twle](https://www.twle.cn/){: .btn .btn-purple }
-[innohub](https://books.innohub.top/){: .btn .btn-purple }
-[uusystem](http://www.uusystem.com/){: .btn .btn-green }
-[Jason Note](https://jasonblog.github.io/note/index.html){: .btn .btn-blue }
-[bick](http://www.pedestrian.com.cn/index.html){: .btn .btn-green }
-[wuli.wiki](https://wuli.wiki/book/){: .btn .btn-purple }
-[oldwinter](https://notes.oldwinter.top/){: .btn .btn-blue }
-
-## Further
 
 {: .highlight }
 > Topics 
@@ -145,9 +137,34 @@ layout: home
 [Learn TLA+](https://learntla.com/){: .btn .btn-green }
 [RESTful API](https://restfulapi.net/){: .btn .btn-purple }
 
+## Further
+
+{: .highlight}
+> Records
+
+[sisyphus](https://sisyphus.gitbook.io/project/){: .btn .btn-blue }
+[stibel](https://stibel.icu/){: .btn .btn-green }
+[vstinner](https://vstinner.readthedocs.io/index.html){: .btn .btn-purple }
+[b0ldfrev](https://b0ldfrev.gitbook.io/note/){: .btn .btn-blue }
+[pdai](https://www.pdai.tech/){: .btn .btn-green }
+[hjlarry](https://hjlarry.gitee.io/){: .btn .btn-purple }
+[nicephil](http://nicephil.blinkenshell.org/my_book/){: .btn .btn-blue }
+[xiaolin](https://xiaolincoding.com/){: .btn .btn-green }
+[twle](https://www.twle.cn/){: .btn .btn-purple }
+[kenve](https://kenve.github.io/){: .btn .btn-green }
+[innohub](https://books.innohub.top/){: .btn .btn-purple }
+[uusystem](http://www.uusystem.com/){: .btn .btn-green }
+[Jason Note](https://jasonblog.github.io/note/index.html){: .btn .btn-blue }
+[bick](http://www.pedestrian.com.cn/index.html){: .btn .btn-green }
+[wuli.wiki](https://wuli.wiki/book/){: .btn .btn-purple }
+[oldwinter](https://notes.oldwinter.top/){: .btn .btn-blue }
+[FashionChan](https://fasionchan.com/){: .btn .btn-green }
+[programmer-notebook](https://programmer-notebook.readthedocs.io/zh_CN/latest/index.html){: .btn .btn-purple }
+
 {: .note }
 > If time permits... 
 
+[CyberChef](https://gchq.github.io/CyberChef/){: .btn .btn-purple }
 [Wolfram Alpha](https://www.wolframalpha.com/){: .btn .btn-blue }
 [MDN Web Docs](https://developer.mozilla.org/en-US/){: .btn .btn-green }
 [Cloudflare Workers](https://developers.cloudflare.com/workers/){: .btn .btn-purple }

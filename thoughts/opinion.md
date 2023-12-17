@@ -5,6 +5,8 @@ layout: home
 
 Dec 17, 2023
 
+- **Important:** `gitbooks.io` would block proxies (`401 Unauthorized`), but authorities would block `gitbooks.io` (occasionally, `RESET`). Is there a good method to access GitBook (Legacy)?
+
 - If YouTube could accurately generates script for videos and I could NOT understand the speaker, then it is my fault of terrible English listening skills; otherwise, it is due to bad oral English of the speaker, usually speakers whose English is as their second language.
 
 - Chances are that some manuals should *be* functioned as a encyclopedia for reference rather than being read thoroughly from start to end.
