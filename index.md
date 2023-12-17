@@ -105,12 +105,14 @@ layout: home
 
 {: .new }
 > Basic Knowledge
+
 [Function Call Principle](https://gitbook.coder.cat/function-call-principle/){: .btn .btn-blue }
 [Programmer Basic (leohxj)](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html){: .btn .btn-green }
 [Principles of Performance](https://llllllllll.github.io/principles-of-performance/index.html){: .btn .btn-purple }
 
 {: .new }
 > Collections
+
 [Advanced Java](https://doocs.github.io/advanced-java/#/){: .btn .btn-purple }
 [MRCODE 1](https://zq99299.github.io/note-book/){: .btn .btn-blue }
 [MRCODE 2](https://www.yuque.com/mrcode.cn){: .btn .btn-blue }
