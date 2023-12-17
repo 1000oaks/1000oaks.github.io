@@ -5,6 +5,7 @@ layout: home
 
 [au20 private repo](https://github.com/1000oaks/au20/){: .btn .btn-blue }
 [GitHub Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){: .btn .btn-green }
+[programmer-basic](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html){: .btn .btn-green }
 
 ## Learning
 
@@ -107,7 +108,6 @@ layout: home
 > Basic Knowledge
 
 [Function Call Principle](https://gitbook.coder.cat/function-call-principle/){: .btn .btn-blue }
-[Programmer Basic (leohxj)](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html){: .btn .btn-green }
 [Principles of Performance](https://llllllllll.github.io/principles-of-performance/index.html){: .btn .btn-purple }
 
 {: .new }
