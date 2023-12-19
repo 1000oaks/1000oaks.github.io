@@ -3,10 +3,10 @@ title: Home
 layout: home
 ---
 
-[au20 private repo](https://github.com/1000oaks/au20/){: .btn .btn-blue }
-[GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){: .btn .btn-green }
-[programmer-basic](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html){: .btn .btn-purple }
+[Vault](https://github.com/1000oaks/au20/){: .btn .btn-blue }
+[Plan 8](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html){: .btn .btn-purple }
 [Plan 9](https://zhuanlan.zhihu.com/p/474087448){: .btn .btn-blue }
+[GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){: .btn .btn-green }
 
 ## Learning
 
