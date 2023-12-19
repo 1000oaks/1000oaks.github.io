@@ -3,6 +3,14 @@ title: Idea
 layout: home
 ---
 
+Dec 19, 2023
+
+- Too many restrictions on the design of generative aritificial intelligence system would definitely result in making useless garbage.
+
+Dec 18, 2023
+
+- For programming using RISC-V Assembly, pseudo-instructions could sometimes be a great problem. There is a complete list of pseudo-instructions in RISC-V Official GitHub Repository.
+
 Dec 17, 2023
 
 - **Important:** `gitbooks.io` would block proxies (`401 Unauthorized`), but authorities would block `gitbooks.io` (occasionally, `RESET`). Is there a good method to access GitBook (Legacy)?
