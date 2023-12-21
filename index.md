@@ -68,6 +68,7 @@ layout: home
 {: .important }
 > Programming Languages 
 
+[Learn C](https://www.cntofu.com/book/25/readme.html){: .btn .btn-green }
 [C++](https://changkun.de/modern-cpp/){: .btn .btn-purple }
 [Java](https://dev.java/learn/getting-started/){: .btn .btn-blue }
 [JVM](https://doocs.github.io/jvm/){: .btn .btn-blue }
