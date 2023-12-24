@@ -20,7 +20,7 @@ layout: home
 {: .warning }
 > Architecture & System Design 
 
-[NEMU aka PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/){: .btn .btn-outline }
+[NEMU aka PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/){: .btn .btn-blue }
 [Tinylab-C](https://tinylab-1.gitbook.io/cbook/){: .btn .btn-green }
 [Linux-C](http://akaedu.github.io/book/){: .btn .btn-purple }
 [YSYX](https://ysyx.oscc.cc/docs/2306/advanced/advanced.html){: .btn .btn-blue }
