@@ -15,8 +15,8 @@ layout: home
 
 [Tinylab-C](https://tinylab-1.gitbook.io/cbook/){: .btn .btn-purple }
 [Linux-C](http://akaedu.github.io/book/){: .btn .btn-purple }
-[NEMU PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/){: .btn .btn-outline }
-[YSYX](https://ysyx.oscc.cc/){: .btn .btn-blue }
+[NEMU aka PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/){: .btn .btn-outline }
+[YSYX](https://ysyx.oscc.cc/docs/2306/advanced/advanced.html){: .btn .btn-blue }
 [rCore v3](https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html){: .btn .btn-green }
 [ArceOS](https://rcore-os.cn/arceos-tutorial-book/){: .btn .btn-green }
 [Track 2](https://scpointer.github.io/rcore2oscomp/){: .btn .btn-green }
