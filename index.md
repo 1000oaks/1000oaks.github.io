@@ -10,6 +10,13 @@ layout: home
 
 ## Learning
 
+{: .new}
+> Bored with PA3 Pt.3. Try something new!
+
+[CS186 Notes](https://cs186berkeley.net/notes/){: .btn .btn-blue }
+[CS186 Projects](https://cs186.gitbook.io/project/){: .btn .btn-green }
+[6.5840](https://pdos.csail.mit.edu/6.824/){: .btn .btn-purple }
+
 {: .warning }
 > Architecture & System Design 
 
