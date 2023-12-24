@@ -15,7 +15,7 @@ layout: home
 
 [Tinylab-C](https://tinylab-1.gitbook.io/cbook/){: .btn .btn-purple }
 [Linux-C](http://akaedu.github.io/book/){: .btn .btn-purple }
-[NEMU PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/){: .btn .btn-blue }
+[NEMU PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2023/){: .btn .btn-outline }
 [YSYX](https://ysyx.oscc.cc/){: .btn .btn-blue }
 [rCore v3](https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html){: .btn .btn-green }
 [ArceOS](https://rcore-os.cn/arceos-tutorial-book/){: .btn .btn-green }
@@ -163,7 +163,6 @@ layout: home
 [wuli.wiki](https://wuli.wiki/book/){: .btn .btn-purple }
 [oldwinter](https://notes.oldwinter.top/){: .btn .btn-blue }
 [FashionChan](https://fasionchan.com/){: .btn .btn-green }
-[programmer-notebook](https://programmer-notebook.readthedocs.io/zh_CN/latest/index.html){: .btn .btn-purple }
 
 {: .note }
 > If time permits... 

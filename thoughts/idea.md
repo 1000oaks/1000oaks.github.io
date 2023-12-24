@@ -3,6 +3,10 @@ title: Idea
 layout: home
 ---
 
+Dec 24, 2023
+
+- Two days of the crazy trip could come to an end finally with bonus. Hope I can complete PA3 Pt.3 before the night class on next Monday.
+
 Dec 19, 2023
 
 - Too many restrictions on the design of generative aritificial intelligence system would definitely result in making useless garbage.
