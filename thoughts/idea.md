@@ -7,6 +7,10 @@ Dec 26, 2023
 
 - GNOME is made by monkeys. Xfce does NOT support Wayland. Qt is so ugly.
 
+- Official listings of RISC-V pseudo-instructions are just after listings of RV32I instructions in RISC-V Spec Volume 1 Chapter 24 & 25.
+
+- He does NOT need to return.
+
 Dec 24, 2023
 
 - Two days of the crazy trip could come to an end finally with bonus. Hope I can complete PA3 Pt.3 before the night class on next Monday.
