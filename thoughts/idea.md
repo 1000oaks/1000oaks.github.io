@@ -3,6 +3,10 @@ title: Idea
 layout: home
 ---
 
+Dec 26, 2023
+
+- GNOME is made by monkeys. Xfce does NOT support Wayland. Qt is so ugly.
+
 Dec 24, 2023
 
 - Two days of the crazy trip could come to an end finally with bonus. Hope I can complete PA3 Pt.3 before the night class on next Monday.
