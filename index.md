@@ -3,19 +3,16 @@ title: Home
 layout: home
 ---
 
-[Vault](https://github.com/1000oaks/au20/){: .btn .btn-blue }
-[Plan 8](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html){: .btn .btn-purple }
-[Plan 9](https://zhuanlan.zhihu.com/p/474087448){: .btn .btn-blue }
-[GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){: .btn .btn-green }
-
 ## Learning
 
 {: .new}
-> Distributed Systems & Cloud Computing
+> Database Systems + Operating Systems + Distributed Systems
 
-[6.5840](https://pdos.csail.mit.edu/6.5840/schedule.html){: .btn .btn-purple }
+[15-445/645](https://15445.courses.cs.cmu.edu/fall2023/){: .btn .btn-green }
+[6.5830/6.5831](https://dsg.csail.mit.edu/6.5830/assign.php){: .btn .btn-blue }
 [CS186 Notes](https://cs186berkeley.net/notes/){: .btn .btn-blue }
 [CS186 Projects](https://cs186.gitbook.io/project/){: .btn .btn-green }
+[6.5840](https://pdos.csail.mit.edu/6.5840/schedule.html){: .btn .btn-purple }
 
 {: .warning }
 > Architecture & System Design 
@@ -80,6 +77,13 @@ layout: home
 [Golang](https://go.dev/doc/){: .btn .btn-green }
 [Rust](https://doc.rust-lang.org/book/){: .btn .btn-purple }
 [Python](https://docs.python.org/zh-cn/3/tutorial/index.html){: .btn .btn-blue }
+
+## Life
+
+[Vault](https://github.com/1000oaks/au20/){: .btn .btn-blue }
+[Plan 8](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html){: .btn .btn-purple }
+[Plan 9](https://zhuanlan.zhihu.com/p/474087448){: .btn .btn-blue }
+[GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){: .btn .btn-green }
 
 ## Thinking
 
