@@ -3,6 +3,12 @@ title: Idea
 layout: home
 ---
 
+Dec 28, 2023
+
+- Time is running out and I have to halt PA.
+
+- `git push` sometimes failed. How to set uop proxy for connecting to GitHub via SSH when pushing?
+
 Dec 26, 2023
 
 - GNOME is made by monkeys. Xfce does NOT support Wayland. Qt is so ugly.
