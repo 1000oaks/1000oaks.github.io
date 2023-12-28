@@ -11,6 +11,7 @@ layout: home
 ## Learning
 
 {: .new}
+> Distributed Systems & Cloud Computing
 
 [6.5840](https://pdos.csail.mit.edu/6.5840/schedule.html){: .btn .btn-purple }
 [CS186 Notes](https://cs186berkeley.net/notes/){: .btn .btn-blue }
