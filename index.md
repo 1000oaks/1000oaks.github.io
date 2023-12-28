@@ -8,10 +8,10 @@ layout: home
 {: .new}
 > Database Systems + Operating Systems + Distributed Systems
 
-[15-445/645](https://15445.courses.cs.cmu.edu/fall2023/){: .btn .btn-green }
-[6.5830/6.5831](https://dsg.csail.mit.edu/6.5830/assign.php){: .btn .btn-blue }
-[CS186 Notes](https://cs186berkeley.net/notes/){: .btn .btn-blue }
-[CS186 Projects](https://cs186.gitbook.io/project/){: .btn .btn-green }
+[15-445/645](https://15445.courses.cs.cmu.edu/fall2023/){: .btn .btn-blue }
+[6.5830](https://dsg.csail.mit.edu/6.5830/assign.php){: .btn .btn-blue }
+[6.1810](https://pdos.csail.mit.edu/6.1810/2023/tools.html){: .btn .btn-green }
+[6.5810](https://kaashoek.github.io/65810-2023/){: .btn .btn-green }
 [6.5840](https://pdos.csail.mit.edu/6.5840/schedule.html){: .btn .btn-purple }
 
 {: .warning }
