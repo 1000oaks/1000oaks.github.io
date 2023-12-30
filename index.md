@@ -3,8 +3,6 @@ title: Home
 layout: home
 ---
 
-## Learning
-
 {: .new}
 > Database Systems + Operating Systems + Distributed Systems
 
