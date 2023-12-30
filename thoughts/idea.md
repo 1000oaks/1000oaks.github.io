@@ -3,6 +3,10 @@ title: Idea
 layout: home
 ---
 
+Dec 30, 2023
+
+- Reinvest the money to be saved on train tickets in internet acceleration services.
+
 Dec 28, 2023
 
 - Time is running out and I have to halt PA.
