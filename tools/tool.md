@@ -17,4 +17,8 @@ layout: home
 
 https://decaf-project.gitbook.io/decaf-2019/overview
 
+https://mashplant.gitbook.io/decaf-doc/
+
+https://tai-e.pascal-lab.net/lectures.html
+
 https://building-an-optimizing-compiler-zh-cn.readthedocs.io/zh-cn/latest/preface.html
