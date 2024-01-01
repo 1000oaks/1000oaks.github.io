@@ -3,6 +3,8 @@ title: Home
 layout: home
 ---
 
+[CS189/289A](https://eecs189.org/pastexams.html){: .btn .btn-purple }
+
 {: .new}
 > Database Systems + Operating Systems + Distributed Systems
 
@@ -80,8 +82,9 @@ layout: home
 ## Life
 
 [Vault](https://github.com/1000oaks/au20/){: .btn .btn-blue }
-[Plan 8](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html){: .btn .btn-purple }
-[Plan 9](https://zhuanlan.zhihu.com/p/474087448){: .btn .btn-blue }
+[Hist 1](https://postgraduate-recommendation.readthedocs.io/zh-cn/latest/index.html){: .btn .btn-green }
+[Plan 1](https://zhuanlan.zhihu.com/p/474087448){: .btn .btn-blue }
+[Plan 2](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html){: .btn .btn-purple }
 [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){: .btn .btn-green }
 
 ## Thinking
