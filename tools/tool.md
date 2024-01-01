@@ -15,4 +15,6 @@ layout: home
 {: .new}
 > Raw data, not processed
 
-[Decaf 2019](https://decaf-project.gitbook.io/decaf-2019/overview){: .btn }
+https://decaf-project.gitbook.io/decaf-2019/overview
+
+https://building-an-optimizing-compiler-zh-cn.readthedocs.io/zh-cn/latest/preface.html
