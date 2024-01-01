@@ -1,6 +1,7 @@
 ---
 title: Plan
 layout: home
+parent: Idea
 ---
 
 研一入学科研急

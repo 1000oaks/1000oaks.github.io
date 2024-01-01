@@ -1,6 +1,7 @@
 ---
 title: Idea
 layout: home
+has_children: true
 ---
 
 Jan 1, 2024
