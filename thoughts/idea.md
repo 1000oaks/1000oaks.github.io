@@ -7,6 +7,10 @@ Jan 1, 2024
 
 - Keep a healthier lifestyle should be an important goal in 2024. Frequent colds & coughs severly disrupt my daily life & work. Adjusting mood & Focusing on what worthful is 2 steps towards healthier lifestyle.
 
+- Life is too short to sleep so much. HIgh quality sleep should be uninterrupted 7-hour sleep, from 12am to 7am. However, to maxmize sleep quality, works should be halted at 11:30pm to give myself 30 minutes to be prepared for the sleep, which is more than important.
+
+- I would always have sufficient time to play video games **unexpectedly** (for example, when I am ill; OR when the atmosphere in the dormitory is not adequate for working & learing; just 2 examples); thus, no need to play them for the time being.
+
 Dec 30, 2023
 
 - Reinvest the money to be saved on train tickets in internet acceleration services.
