@@ -3,6 +3,10 @@ title: Idea
 layout: home
 ---
 
+Jan 1, 2024
+
+- Keep a healthier lifestyle should be an important goal in 2024. Frequent colds & coughs severly disrupt my daily life & work. Adjusting mood & Focusing on what worthful is 2 steps towards healthier lifestyle.
+
 Dec 30, 2023
 
 - Reinvest the money to be saved on train tickets in internet acceleration services.
