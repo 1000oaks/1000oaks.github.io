@@ -6,6 +6,8 @@ has_children: true
 
 Jan 5, 2024
 
+- **Enhanced Security Measures:** Only take 500mL plastic bottled water in & out dormitory and take good care of any drinkings when in dormitory due to lack of surveillance cameras in dormitory building other than first floor. Any non-vacant plastic bottled water more than 500mL **(if opened)** should be throwed into trash bin before entering dormitory building due to safety concerns.
+
 - After uninstalling **Project SEKAI: Colorful Stage feat. Hatsune Miku** and **BanG Dream: Girls Band Party** because of boredness, I have to come up with other methods (multimodal) to inspire myself. What would be the NEXT?
 
 Jan 1, 2024
