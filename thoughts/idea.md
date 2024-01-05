@@ -4,6 +4,10 @@ layout: home
 has_children: true
 ---
 
+Jan 5, 2024
+
+- After uninstalling **Project SEKAI: Colorful Stage feat. Hatsune Miku** and **BanG Dream: Girls Band Party** because of boredness, I have to come up with other methods (multimodal) to inspire myself. What would be the NEXT?
+
 Jan 1, 2024
 
 - Keep a healthier lifestyle should be an important goal in 2024. Frequent colds & coughs severly disrupt my daily life & work. Adjusting mood & Focusing on what worthful is 2 steps towards healthier lifestyle.
