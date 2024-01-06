@@ -6,11 +6,13 @@ layout: home
 # Useful Tools
 
 {: .new}
-> C & C++ & Assembly
+> Life, easier
 
 [Compiler Explorer](https://godbolt.org/){: .btn .btn-blue }
 
 [C++ Reference](https://en.cppreference.com/w/){: .btn .btn-green }
+
+[Git (blobless clone)](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/){: .btn .btn-purple }
 
 {: .new}
 > Raw data, not processed
