@@ -4,6 +4,10 @@ layout: home
 has_children: true
 ---
 
+Jan 6, 2024
+
+- All undergraduate courses have finally come to an final end. Time for being a self-taught coder!
+
 Jan 5, 2024
 
 - **Enhanced Security Measures:** Only take 500mL plastic bottled water in & out dormitory and take good care of any drinkings when in dormitory due to lack of surveillance cameras in dormitory building other than first floor. Any non-vacant plastic bottled water more than 500mL **(if opened)** should be throwed into trash bin before entering dormitory building due to safety concerns.
