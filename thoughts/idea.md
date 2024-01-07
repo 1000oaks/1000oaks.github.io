@@ -4,6 +4,10 @@ layout: home
 has_children: true
 ---
 
+Jan 7, 2024
+
+- Not acquiring children is the best reward & gift I can give to "my" "children".
+
 Jan 6, 2024
 
 - All undergraduate courses have finally come to an final end. Time for being a self-taught coder!
