@@ -3,6 +3,7 @@ title: Home
 layout: home
 ---
 
+[CS61B](https://fa23.datastructur.es/){: .btn .btn-blue }
 [ENGLISH](https://github.com/xiaolai/everyone-can-use-english){: .btn .btn-purple }
 
 {: .new}
