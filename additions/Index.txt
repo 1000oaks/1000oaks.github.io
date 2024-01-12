@@ -1,0 +1,214 @@
+[付费墙] https://learn-anything.xyz/
+
+[Dictionaries]
+https://dictionary.cambridge.org/us/
+https://www.oxfordlearnersdictionaries.com/us/
+https://www.merriam-webster.com/
+https://www.collinsdictionary.com/us/
+https://www.oed.com/
+
+[AArch64, Hypervisor, Virtualization, ArceOS]
+https://developer.arm.com/documentation/ddi0601/2020-12
+https://developer.arm.com/documentation/100933/0100
+https://developer.arm.com/documentation/102412/0103
+https://developer.arm.com/documentation/101811/latest/
+https://developer.arm.com/documentation/102142/0100/
+http://rcore-os.cn/arceos-tutorial-book/
+https://github.com/arceos-hypervisor/2023-virtualization-campus/blob/master/hypervisor/aarch64/ch2-cpu-vcpu-vm.md
+https://github.com/arceos-hypervisor/hypercraft
+https://os2edu.cn/course/160
+https://segmentfault.com/a/1190000043733288
+https://gitee.com/openeuler/rust_shyper
+https://docs.kernel.org/next/riscv/boot.html
+https://chenlongos.com/raspi4-with-arceos-doc/
+https://scpointer.github.io/rcore2oscomp/
+https://pastorini.net/blog/how-to-build-qemu/
+https://www.linuxtechi.com/how-to-install-kvm-on-ubuntu-22-04/
+
+[AMD P-State Driver]
+https://www.reddit.com/r/archlinux/comments/1381g2g/amd_pstate_epp_scaling_driver_available_with/
+https://www.reddit.com/r/linux/comments/15p4bfs/amd_pstate_and_amd_pstate_epp_scaling_driver/
+
+[Datawhale, YOLOv8, PyTorch, AI, CV]
+https://course.fast.ai/
+https://colab.research.google.com/github/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb
+https://docs.ultralytics.com/guides/kfold-cross-validation/
+https://docs.ultralytics.com/guides/yolo-performance-metrics/
+https://docs.ultralytics.com/guides/hyperparameter-tuning/
+https://www.youtube.com/watch?v=_a7cVL9hqnk
+https://docs.ultralytics.com/zh/quickstart/#_1
+https://docs.ultralytics.com/guides/#guides
+https://pytorch.org/tutorials/beginner/Intro_to_TorchScript_tutorial.html
+https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+https://pytorch.org/tutorials/recipes/recipes_index.html
+https://pytorch.org/tutorials/beginner/nn_tutorial.html
+https://pytorch.zhangxiann.com/
+
+[K8s, Container]
+https://kubernetes.feisky.xyz/
+https://labs.iximiuz.com/tutorials/containers-vs-pods
+https://developer.arm.com/documentation/102142/0100
+https://learnkubernetes.withgoogle.com
+https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+https://kubernetes.io/zh-cn/docs/tasks/debug/
+https://kubernetes.io/zh-cn/docs/concepts/cluster-administration/
+https://pkg.go.dev/k8s.io/kubernetes/pkg/kubelet
+https://docs.docker.com/engine/
+https://docs.alpinelinux.org/user-handbook/0.1a/index.html
+
+[eBPF]
+https://cilium.readthedocs.io/en/stable/bpf/
+https://ebpf.io/what-is-ebpf/
+https://docs.cilium.io/en/stable/bpf/
+https://www.kernel.org/doc/html/latest/bpf/index.html
+
+[WASM]
+https://webassembly.org/docs/faq/
+https://webassembly.github.io/spec/core/
+https://developer.mozilla.org/en-US/docs/WebAssembly
+
+[SQL] {IDLE} Chaps [3, 9, 11-14] are important.
+Review Section 3.6 again some time.
+Then focus on DATABASE rather than LANGUAGE itself.
+https://dev.mysql.com/doc/refman/8.0/en/examples.html
+
+[Chrome & MDN]
+https://developer.chrome.com/docs/devtools/overview/
+https://chromeenterprise.google/policies/#ProxySettings
+https://support.google.com/chrome/a#topic=4386754
+https://web.dev/
+https://developer.mozilla.org/en-US/
+
+[Go]
+https://go.dev/doc/
+https://go.dev/talks/
+https://gobyexample.com/
+https://gowebexamples.com/
+https://vimeo.com/53221558
+https://www.youtube.com/watch?v=QDDwwePbDtw
+https://www.youtube.com/watch?v=f6kdp27TYZs
+https://www.youtube.com/watch?v=Q0sKAMal4WQ
+https://spf13.com/
+https://go.dev/blog/
+https://go.dev/doc/articles/wiki/
+https://go.dev/doc/code
+https://go.dev/doc/codewalk/functions/
+https://go.dev/doc/codewalk/sharemem/
+https://go.dev/ref/spec
+https://pkg.go.dev/std
+https://docs.google.com/presentation/d/e/2PACX-1vRhr_UOI0SW3sg52O4CM6USsTwJsz-RXmfuEgn7ke1xLRfYrZA_rjEYK0m4vJlawPQL88cLNvIkOSL4/embed
+https://www.practical-go-lessons.com/
+https://golang2.eddycjy.com/
+
+[Rust]
+(1) Rust程序设计语言
+The Rust Programming Language
+第二版:
+https://doc.rust-lang.org/book/
+https://kaisery.github.io/trpl-zh-cn/
+https://rustwiki.org/zh-CN/book/
+https://oupula.gitbooks.io/rust-lang/content/
+第一版:
+https://www.bookstack.cn/books/rust-book-chinese
+https://kaisery.gitbooks.io/rust-book-chinese/content/
+https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/README.html
+(2) 通过例子学Rust
+Rust by Example
+https://doc.rust-lang.org/rust-by-example/index.html
+https://rustwiki.org/zh-CN/rust-by-example/
+(3) Rust秘典(死灵书)
+The Rustonomicon
+https://doc.rust-lang.org/nomicon/intro.html
+https://nomicon.purewhite.io/
+(4) 一些官方文档
+https://www.rust-lang.org/zh-CN/learn
+(4a) Rust 参考手册 The Rust Reference
+https://doc.rust-lang.org/stable/reference/
+https://minstrel1977.gitee.io/rust-reference/
+(4b) The Rust Standard Library (std)
+https://doc.rust-lang.org/std/index.html
+(4c) The rustup Book
+https://rust-lang.github.io/rustup/
+(4d) Clippy Documentation
+https://doc.rust-lang.org/clippy/
+(4e) The Cargo Book
+https://doc.rust-lang.org/cargo/
+(4f) The Rust RFC Book
+https://rust-lang.github.io/rfcs/introduction.html
+(5) Exercism: Rust Track
+https://exercism.org/tracks/rust
+(6) 第三方教程
+(6a) Rust语言圣经(Rust Course)
+https://course.rs/about-book.html
+(6b) Comprehensive Rust
+https://google.github.io/comprehensive-rust/index.html
+https://google.github.io/comprehensive-rust/zh-CN
+(6c) Easy Rust
+https://kumakichi.github.io/easy_rust_chs/
+https://dhghomon.github.io/easy_rust/
+(6d) Rust Cookbook
+https://rust-lang-nursery.github.io/rust-cookbook/intro.html
+https://rustwiki.org/zh-CN/rust-cookbook/
+https://wangchujiang.com/rust-cn-document-for-docker/rust-cookbook/intro.html
+(6e) Rust的温柔介绍
+http://llever.com/gentle-intro/1-basics.zh.html
+(6f) Introduction to Programming using Rust
+https://gradebot.org/doc/ipur/preface.html
+(6g) Rust入门秘籍
+https://rust-book.junmajinlong.com/about.html
+(6h) Rust模式
+https://plus7wist.gitee.io/rust-patterns-zh/
+(6i) Learn Rust With Entirely Too Many Linked Lists
+http://rust-unofficial.github.io/too-many-lists/index.html
+(6j) Rust Design Patterns
+https://rust-unofficial.github.io/patterns/
+(6k) Rust by practice(Rust练习实践)
+https://zh.practice.rs/why-exercise.html
+(6l) The Embedded Rust Book
+https://docs.rust-embedded.org/book/intro/index.html
+
+[CUDA]
+https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html
+https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
+https://docs.nvidia.com/cuda/index.html
+
+[Interchange]
+https://pdos.csail.mit.edu/6.5840/index.html
+https://docs.python.org/zh-cn/3/tutorial/index.html
+https://labs.iximiuz.com/
+https://man7.org/linux/man-pages/man5/sysfs.5.html
+https://docker-curriculum.com/
+https://cloud.google.com/kubernetes-engine/docs?hl=zh-cn
+https://www.educative.io/courses/grokking-the-behavioral-interview
+https://developers.cloudflare.com/workers/
+https://learning.postman.com/docs/introduction/overview/
+https://www.ibm.com/docs/en/cics-ts/5.1?topic=concepts-components-url
+https://restfulapi.net/
+https://chai2010.cn/advanced-go-programming-book/index.html
+https://heldercorreia.bitbucket.io/speedcrunch/introduction.html
+https://webassembly.org/
+https://comp3511.github.io/
+https://labuladong.gitee.io/algo/
+https://refactoringguru.cn/
+https://lqlab.readthedocs.io/en/latest/
+http://math.itdiffer.com/corrigendum.html
+https://github.github.com/gfm/
+https://towardsdatascience.com/
+https://www.kancloud.cn/pshizhsysu/kubernetes/1738544
+https://docs.dgl.ai/guide_cn/index.html
+https://cch123.gitbooks.io/duplicate/content/
+https://mit-public-courses-cn-translatio.gitbook.io/mit6-824/
+https://xiaoxiami.gitbook.io/linux-server/
+https://robomaster-dev.readthedocs.io/en/latest/index.html
+https://notes.mraddict.top/intro.html
+https://unofficial-kubernetes.readthedocs.io/en/latest/
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9
+
+[Miscellaneous]
+https://creator.pdf24.org/manual/11/
+https://spec.commonmark.org/0.30/
+https://marp.app/docs
+https://marpit.marp.app/
+https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/index.html
+https://docs.qq.com/doc/DSXFzRkdodExxQUVO
+https://docs.qq.com/doc/DWW1GZ3FQekx5dm9T

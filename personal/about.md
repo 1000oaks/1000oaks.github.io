@@ -11,11 +11,11 @@ layout: home
 
 **One-Sentence Summary:** A Person on Earth, coding & exploring everyday.
 
-**Details:** NOT TO BE DISCLOSED FOR THE TIME BEING
+**Details:** Please check my resume for details.
 
 ## Resume
 
-NOT TO BE DISCLOSED FOR THE TIME BEING
+Resume is [HERE](resume.pdf).
 
 ## Contact
 

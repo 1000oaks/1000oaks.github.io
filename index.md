@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-[CS189/289A](https://eecs189.org/pastexams.html){: .btn .btn-purple }
+[ENGLISH](https://github.com/xiaolai/everyone-can-use-english){: .btn .btn-purple }
 
 {: .new}
 > Database Systems + Operating Systems + Distributed Systems
@@ -108,6 +108,8 @@ layout: home
 1. [CS61B Data Structures](https://fa23.datastructur.es/)
 
 1. [CS186 Introduction to Database Systems](https://cs186berkeley.net/)
+
+1. [CS189/289A Introduction to Machine Learning](https://eecs189.org/)
 
 1. [CS294 Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-sp22/)
 
