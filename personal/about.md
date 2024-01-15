@@ -9,7 +9,9 @@ layout: home
 
 ## Info
 
-**One-Sentence Summary:** A student in Mainland China *now*, coding & exploring everyday, loving to play Project SEKAI: Colorful Stage feat. Hatsune Miku.
+**One-Sentence Summary:** A student in Mainland China *now*, coding & exploring everyday.
+
+If I am not studying, I may be playing Project SEKAI: Colorful Stage feat. Hatsune Miku.
 
 **Details:** Please check my resume for details.
 
